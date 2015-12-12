@@ -74,5 +74,17 @@
       "argument": "0",
       "target": "to"
     }
+    {
+      "keyword": "bullshit",
+      "message": "yep this command is bullshit",
+      "argument": "0",
+      "target": "to"
+    }
+    {
+      "keyword": "rulez",
+      "message": "CRX RuLeZ",
+      "argument": "0",
+      "target": "to"
+    }
   ]
 }
